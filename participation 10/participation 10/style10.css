@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'bespoke';
+    src: url(fonts/Bespoke-7WDg1GkwSq.otf);
+ }
+
+ p{
+
+    font-family: 'bespoke';
+    line-height: 2;
+    color: rgb(137, 77, 105);
+ }
